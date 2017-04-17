@@ -1,0 +1,33 @@
+{
+  "name": "r2-orm-lib",
+  "version": "0.0.1",
+  "keywords": [
+    "sailsjs",
+    "waterlinejs",
+    "modelling",
+    "technifiser",
+    "orm",
+    "database"
+  ],
+  "description": "This is a piece of sofware i use to configure database access from my nodejs apps",
+  "homepage": "https://github.com/untipoahi/OrmLib.git",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/untipoahi/OrmLib.git"
+  },
+  "author": {
+    "name": "Arturo Gomez"
+  },
+  "main": "orm",
+  "dependencies": {
+    "clean-obj": "^0.1.2",
+    "extend": "^3.0.0",
+    "modelling": "0.0.3"
+  },
+  "directories": {
+  },
+  "licenses": [
+    {
+    }
+  ]
+}
